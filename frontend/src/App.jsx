@@ -14,7 +14,6 @@ import {
   Users,
 } from "lucide-react";
 import CustomSelect from "./components/CustomSelect";
-import "./app.css";
 
 export default function App() {
   const [theme, setTheme] = useState("light");
